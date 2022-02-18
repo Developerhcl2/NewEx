@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\obj\Debug\netcoreapp3.1\Bank_main.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\obj\Debug\netcoreapp3.1\Bank_main.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\obj\Debug\netcoreapp3.1\Bank_main.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\obj\Debug\netcoreapp3.1\Bank_main.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\bin\Debug\netcoreapp3.1\Bank_main.exe
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\bin\Debug\netcoreapp3.1\Bank_main.deps.json
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\bin\Debug\netcoreapp3.1\Bank_main.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\bin\Debug\netcoreapp3.1\Bank_main.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\bin\Debug\netcoreapp3.1\Bank_main.dll
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\bin\Debug\netcoreapp3.1\Bank_main.pdb
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\obj\Debug\netcoreapp3.1\Bank_main.dll
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\obj\Debug\netcoreapp3.1\Bank_main.pdb
+C:\Users\adminvm.adminvm\source\repos\Bank_main\Bank_main\obj\Debug\netcoreapp3.1\Bank_main.genruntimeconfig.cache
